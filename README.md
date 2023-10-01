@@ -1,0 +1,1 @@
+# gin-wire-template
